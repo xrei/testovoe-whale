@@ -1,6 +1,7 @@
 <template>
   <div class="app-header">
-    <div class="overlay-bar"></div>
+    <div class="overlay-bar">
+    </div>
     <div class="container app-header--content">
       <div class="flex between pb-4">
         <div class="header-logo">
